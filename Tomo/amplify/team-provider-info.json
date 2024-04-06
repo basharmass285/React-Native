@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tomo-staging-173830-authRole",
+      "UnauthRoleArn": "arn:aws:iam::951984519134:role/amplify-tomo-staging-173830-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::951984519134:role/amplify-tomo-staging-173830-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-tomo-staging-173830-deployment",
+      "UnauthRoleName": "amplify-tomo-staging-173830-unauthRole",
+      "StackName": "amplify-tomo-staging-173830",
+      "StackId": "arn:aws:cloudformation:eu-north-1:951984519134:stack/amplify-tomo-staging-173830/8d01e640-3b92-11ee-8506-0e9926d6fff6",
+      "AmplifyAppId": "d14w10jnivitp7"
+    },
+    "categories": {
+      "auth": {
+        "Tomo": {}
+      }
+    }
+  }
+}
